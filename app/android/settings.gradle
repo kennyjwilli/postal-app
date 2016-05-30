@@ -1,0 +1,3 @@
+rootProject.name = 'PostalMessenger'
+
+include ':app'

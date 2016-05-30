@@ -1,0 +1,4 @@
+{:require          [postal-messenger.app.core]
+ :init-fns         [postal-messenger.app.core/main]
+ :compiler-options {:optimizations :advanced
+                    :externs       ["externs.js" "react.ext.js" "react.native.ext.js"]}}
